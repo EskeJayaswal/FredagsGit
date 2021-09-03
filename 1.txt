@@ -1,4 +1,4 @@
-Dett er første linje
+DETTE er første linje
 
 Det her er anden linje. Det her er også noget lort.
 
